@@ -1,0 +1,2 @@
+sk4920: Move and its heuristic
+tl3098: Trap and its heuristic
